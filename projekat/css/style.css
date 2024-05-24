@@ -1,0 +1,8 @@
+card {
+    margin: 0 auto;
+    /* Centriranje kartice */
+    margin-top: 200px;
+    /* Podešavanje margine od vrha */
+    max-width: 400px;
+    /* Maksimalna širina kartice */
+    }
